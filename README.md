@@ -1,2 +1,2 @@
-这是一个用来练习入门 markdown 的代码，里面涵盖了众多 markdown 功能，是跟着 bilibili 上的一位博主学习的，原视频链接放这了：
+这是一个用来练习入门 markdown 的代码，作者使用的是VS Code，配了Markdown All in One 和 Markdown Preview Enhanced 插件，里面涵盖了众多 markdown 功能（内置视频功能不支持），是跟着 bilibili 上的一位博主学习的，原视频链接放这了：
 【8分钟让你快速掌握Markdown】 https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=6b492f5cce375abcc7d01e43f51f0185
