@@ -1,0 +1,2 @@
+这是一个用来练习入门 markdown 的代码，里面涵盖了众多 markdown 功能，是跟着 bilibili 上的一位博主学习的，原视频链接放这了：
+【8分钟让你快速掌握Markdown】 https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=6b492f5cce375abcc7d01e43f51f0185
