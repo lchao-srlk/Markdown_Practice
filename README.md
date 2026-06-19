@@ -1,2 +1,42 @@
-这是一个用来练习入门 markdown 的代码，作者使用的是VS Code，配了Markdown All in One 和 Markdown Preview Enhanced 插件，里面涵盖了众多 markdown 功能（内置视频功能不支持），是跟着 bilibili 上的一位博主学习的，原视频链接放这了：
-【8分钟让你快速掌握Markdown】 https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=6b492f5cce375abcc7d01e43f51f0185
+# 📝 Markdown 练习 · 与 🎨 Emoji 速查表
+
+---
+
+## 📂 仓库内容
+
+### 1️⃣ `practice.md` —— Markdown 语法练习手册
+这份文件涵盖了 **Markdown 的绝大多数常用语法**，包括：
+- 标题层级（H1 ~ H6）
+- 引用、列表（有序/无序/任务清单）
+- 代码块（多种语言高亮）
+- 数学公式（行内与块级）
+- 表格、脚注、横线
+- 链接、图片、引用链接
+- 文本修饰（斜体、粗体、删除线、下划线、高亮）
+- 表情符号（基础版）和行内 HTML
+
+> 这份练习是作者跟着B站某博主的视频学习时自己练手用的，适合边看边动手敲一遍，仅供参考。原视频链接见文末。
+
+---
+
+### 2️⃣ `emoji-cheatsheet.md` —— README 美化图标合集
+
+供大家美化自己的 `README.md` 使用，配了代码和效果
+
+内容包括：
+- 💻 技术栈与硬件
+- ⚙️ 工具与构建
+- 🚦 状态与反馈
+- 🚀 功能亮点
+- ⭐ 用户互动
+- 📁 文件与文档
+- 🧪 代码与测试
+- ☁️ 部署与运维
+- 😜 日常表情
+
+---
+
+🔗 原视频链接：  
+  【8分钟让你快速掌握Markdown】 https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=6b492f5cce375abcc7d01e43f51f0185
+
+如果喜欢这个仓库，别忘了点个 ⭐ 支持一下～
