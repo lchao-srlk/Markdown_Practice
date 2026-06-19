@@ -70,7 +70,7 @@ http://www.baidu.com
 
 ![img](level7.png "自创Sokoban游戏")
 
-*斜体* **加粗** `printf()` <u>下划线</u> :) :( :| :smile: :cry:
+*斜体* **加粗** `printf()` <u>下划线</u> ~~删除线~~ :) :( :| :smile: :cry:
 
 $\theta=x^2$
 H~2~O
